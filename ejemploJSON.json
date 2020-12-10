@@ -1,0 +1,2422 @@
+[
+{
+"sha": "633db6fbe988c2750376fa69ead02efe157a4d1a",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NjMzZGI2ZmJlOTg4YzI3NTAzNzZmYTY5ZWFkMDJlZmUxNTdhNGQxYQ==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@users.noreply.github.com",
+"date": "2020-12-07T16:10:47Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-07T16:10:47Z"
+},
+"message": "Merge pull request #2364 from vsemozhetbyt/unicode\n\nReplace unicode with Unicode all over the book",
+"tree": {
+"sha": "145a459a587badd85a1208e0cc3247c53b4456ab",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/145a459a587badd85a1208e0cc3247c53b4456ab"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/633db6fbe988c2750376fa69ead02efe157a4d1a",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzlQHCRBK7hj4Ov3rIwAAdHIIADapgvzIdk2V1HJ+712xLm6e\naAOeggr4w+duedWmT3nHIiijuMFjyAZ+6anIHM6Jk/J7zAWQnxBl+jqGRTGPoc5F\nViCvScdedRzFyw8rLua/NCbhgrMyPyK9kUUZ0extous1UeUIWybyrn5YskrBTkpZ\ntkUxPvh0FHKpMK2nlHnUEzZH0cbyiu6gM1ttu+8ewi/n9d9Z0Q5vQX6+Ji7VYRCf\nC8N6XkGQ2iBWedOI8vSXmSXa/rzn5r5ch9mzSzy5+HFHBFaLXCjSEML7kfLr0XAX\n48cHC23lMCQwdXc3V13Q3E1lf8Dv+uZhIxFLxDhYzSCCdi6+PGR4rS9jNDQk1dE=\n=AF3m\n-----END PGP SIGNATURE-----\n",
+"payload": "tree 145a459a587badd85a1208e0cc3247c53b4456ab\nparent e87f130fc116807850a7404bb3d5b9aeee1de943\nparent 7c73f64a1381ad212843e22d356f7e134c59c821\nauthor Ilya Kantor <iliakan@users.noreply.github.com> 1607357447 +0300\ncommitter GitHub <noreply@github.com> 1607357447 +0300\n\nMerge pull request #2364 from vsemozhetbyt/unicode\n\nReplace unicode with Unicode all over the book"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/633db6fbe988c2750376fa69ead02efe157a4d1a",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/633db6fbe988c2750376fa69ead02efe157a4d1a",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/633db6fbe988c2750376fa69ead02efe157a4d1a/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "e87f130fc116807850a7404bb3d5b9aeee1de943",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/e87f130fc116807850a7404bb3d5b9aeee1de943",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/e87f130fc116807850a7404bb3d5b9aeee1de943"
+},
+{
+"sha": "7c73f64a1381ad212843e22d356f7e134c59c821",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/7c73f64a1381ad212843e22d356f7e134c59c821",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/7c73f64a1381ad212843e22d356f7e134c59c821"
+}
+]
+},
+{
+"sha": "7c73f64a1381ad212843e22d356f7e134c59c821",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6N2M3M2Y2NGExMzgxYWQyMTI4NDNlMjJkMzU2ZjdlMTM0YzU5YzgyMQ==",
+"commit": {
+"author": {
+"name": "Vse Mozhe Buty",
+"email": "vsemozhetbyt@gmail.com",
+"date": "2020-12-07T16:05:47Z"
+},
+"committer": {
+"name": "Vse Mozhe Buty",
+"email": "vsemozhetbyt@gmail.com",
+"date": "2020-12-07T16:05:47Z"
+},
+"message": "Replace unicode with Unicode all over the book",
+"tree": {
+"sha": "145a459a587badd85a1208e0cc3247c53b4456ab",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/145a459a587badd85a1208e0cc3247c53b4456ab"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/7c73f64a1381ad212843e22d356f7e134c59c821",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/7c73f64a1381ad212843e22d356f7e134c59c821",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/7c73f64a1381ad212843e22d356f7e134c59c821",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/7c73f64a1381ad212843e22d356f7e134c59c821/comments",
+"author": {
+"login": "vsemozhetbyt",
+"id": 10393198,
+"node_id": "MDQ6VXNlcjEwMzkzMTk4",
+"avatar_url": "https://avatars1.githubusercontent.com/u/10393198?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vsemozhetbyt",
+"html_url": "https://github.com/vsemozhetbyt",
+"followers_url": "https://api.github.com/users/vsemozhetbyt/followers",
+"following_url": "https://api.github.com/users/vsemozhetbyt/following{/other_user}",
+"gists_url": "https://api.github.com/users/vsemozhetbyt/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/vsemozhetbyt/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/vsemozhetbyt/subscriptions",
+"organizations_url": "https://api.github.com/users/vsemozhetbyt/orgs",
+"repos_url": "https://api.github.com/users/vsemozhetbyt/repos",
+"events_url": "https://api.github.com/users/vsemozhetbyt/events{/privacy}",
+"received_events_url": "https://api.github.com/users/vsemozhetbyt/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "vsemozhetbyt",
+"id": 10393198,
+"node_id": "MDQ6VXNlcjEwMzkzMTk4",
+"avatar_url": "https://avatars1.githubusercontent.com/u/10393198?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vsemozhetbyt",
+"html_url": "https://github.com/vsemozhetbyt",
+"followers_url": "https://api.github.com/users/vsemozhetbyt/followers",
+"following_url": "https://api.github.com/users/vsemozhetbyt/following{/other_user}",
+"gists_url": "https://api.github.com/users/vsemozhetbyt/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/vsemozhetbyt/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/vsemozhetbyt/subscriptions",
+"organizations_url": "https://api.github.com/users/vsemozhetbyt/orgs",
+"repos_url": "https://api.github.com/users/vsemozhetbyt/repos",
+"events_url": "https://api.github.com/users/vsemozhetbyt/events{/privacy}",
+"received_events_url": "https://api.github.com/users/vsemozhetbyt/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "e87f130fc116807850a7404bb3d5b9aeee1de943",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/e87f130fc116807850a7404bb3d5b9aeee1de943",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/e87f130fc116807850a7404bb3d5b9aeee1de943"
+}
+]
+},
+{
+"sha": "e87f130fc116807850a7404bb3d5b9aeee1de943",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6ZTg3ZjEzMGZjMTE2ODA3ODUwYTc0MDRiYjNkNWI5YWVlZTFkZTk0Mw==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@users.noreply.github.com",
+"date": "2020-12-07T15:37:44Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-07T15:37:44Z"
+},
+"message": "Merge pull request #2362 from vsemozhetbyt/patch-1\n\nFix typo in 9.1 (Patterns and flags)",
+"tree": {
+"sha": "a0bf8c8f64bbff682ef9237a95ccd51da768271c",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/a0bf8c8f64bbff682ef9237a95ccd51da768271c"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/e87f130fc116807850a7404bb3d5b9aeee1de943",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzkxICRBK7hj4Ov3rIwAAdHIIADmzHO6195ymixmHjNR8D6bo\n/68mJs6CsSpXrZWdy+YUv355on+zLmM5/phGS/3yeCbA5gnq0ZLl5MhqFbuVOwxr\nxGQN8ARdrWXYf6HHlpo0Cmm5YZbvP/kfynhQpAs13EG03vabPVT75YaEoVJ3a5JQ\nPl409I0Xbos263+H0I2EBVWNZ3ci5tiqYz1TK9ilPJl6mfeWY/IEIoJnZFFfp6Wk\nq6SpkK7sA7vmrAMKRvhFoq1V46tV8Pr0uSNwjlJky90o6KyER0FaAqmqnMoe789y\nwTJjhSTQDHT2SEWb4iRitIJp9COdMSouXv5O/MfRDdigcvY10DbjVyN8Fk6aEJs=\n=cAEP\n-----END PGP SIGNATURE-----\n",
+"payload": "tree a0bf8c8f64bbff682ef9237a95ccd51da768271c\nparent 79c951379640c651e07f2820be3084db7b8d12f9\nparent 5be2c046a560e5e3504b18252c8da7695f6ac2a6\nauthor Ilya Kantor <iliakan@users.noreply.github.com> 1607355464 +0300\ncommitter GitHub <noreply@github.com> 1607355464 +0300\n\nMerge pull request #2362 from vsemozhetbyt/patch-1\n\nFix typo in 9.1 (Patterns and flags)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/e87f130fc116807850a7404bb3d5b9aeee1de943",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/e87f130fc116807850a7404bb3d5b9aeee1de943",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/e87f130fc116807850a7404bb3d5b9aeee1de943/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "79c951379640c651e07f2820be3084db7b8d12f9",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/79c951379640c651e07f2820be3084db7b8d12f9",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/79c951379640c651e07f2820be3084db7b8d12f9"
+},
+{
+"sha": "5be2c046a560e5e3504b18252c8da7695f6ac2a6",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/5be2c046a560e5e3504b18252c8da7695f6ac2a6",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/5be2c046a560e5e3504b18252c8da7695f6ac2a6"
+}
+]
+},
+{
+"sha": "5be2c046a560e5e3504b18252c8da7695f6ac2a6",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NWJlMmMwNDZhNTYwZTVlMzUwNGIxODI1MmM4ZGE3Njk1ZjZhYzJhNg==",
+"commit": {
+"author": {
+"name": "Vse Mozhe Buty",
+"email": "vsemozhetbyt@gmail.com",
+"date": "2020-12-07T15:25:36Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-07T15:25:36Z"
+},
+"message": "Fix typo in 9.1 (Patterns and flags)",
+"tree": {
+"sha": "a0bf8c8f64bbff682ef9237a95ccd51da768271c",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/a0bf8c8f64bbff682ef9237a95ccd51da768271c"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/5be2c046a560e5e3504b18252c8da7695f6ac2a6",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzklwCRBK7hj4Ov3rIwAAdHIIAE5qcSF7wBRa3K3BGBWj3r1H\n+biGhftkOzupWFDXiaHNe/9A90zTLxH+o5OKI9+hzTlsQaHd5UVFhHbS5AWALLaq\nK5P3EQ0t0PNDvsdtb/r+rbHFretxuvcv7o+uHiFxXTLBfN83V+tB20k5/vwj+DeZ\nyzKGTBQo5jHBtZ6VYJnY5EZlPR+EwI/Rc0iUwVsLwFH9Fw27HZgB7aXYcUQfo04o\npLlWDNl7ATA5UchzhJ1c/L648pGNDtInnV91lXFQm2TH8QsF9OkNzC26m/3aalzV\nr3sMfUQR9GGU3Zinvqf9yh2yd2AVRVj+Q1qSJv3twnwBfqIBgk5+H4C/eVi1oPg=\n=8Vgy\n-----END PGP SIGNATURE-----\n",
+"payload": "tree a0bf8c8f64bbff682ef9237a95ccd51da768271c\nparent 79c951379640c651e07f2820be3084db7b8d12f9\nauthor Vse Mozhe Buty <vsemozhetbyt@gmail.com> 1607354736 +0200\ncommitter GitHub <noreply@github.com> 1607354736 +0200\n\nFix typo in 9.1 (Patterns and flags)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/5be2c046a560e5e3504b18252c8da7695f6ac2a6",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/5be2c046a560e5e3504b18252c8da7695f6ac2a6",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/5be2c046a560e5e3504b18252c8da7695f6ac2a6/comments",
+"author": {
+"login": "vsemozhetbyt",
+"id": 10393198,
+"node_id": "MDQ6VXNlcjEwMzkzMTk4",
+"avatar_url": "https://avatars1.githubusercontent.com/u/10393198?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vsemozhetbyt",
+"html_url": "https://github.com/vsemozhetbyt",
+"followers_url": "https://api.github.com/users/vsemozhetbyt/followers",
+"following_url": "https://api.github.com/users/vsemozhetbyt/following{/other_user}",
+"gists_url": "https://api.github.com/users/vsemozhetbyt/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/vsemozhetbyt/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/vsemozhetbyt/subscriptions",
+"organizations_url": "https://api.github.com/users/vsemozhetbyt/orgs",
+"repos_url": "https://api.github.com/users/vsemozhetbyt/repos",
+"events_url": "https://api.github.com/users/vsemozhetbyt/events{/privacy}",
+"received_events_url": "https://api.github.com/users/vsemozhetbyt/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "79c951379640c651e07f2820be3084db7b8d12f9",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/79c951379640c651e07f2820be3084db7b8d12f9",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/79c951379640c651e07f2820be3084db7b8d12f9"
+}
+]
+},
+{
+"sha": "79c951379640c651e07f2820be3084db7b8d12f9",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NzljOTUxMzc5NjQwYzY1MWUwN2YyODIwYmUzMDg0ZGI3YjhkMTJmOQ==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-07T14:20:04Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-07T14:20:12Z"
+},
+"message": "closes #2358",
+"tree": {
+"sha": "190287dd7e580445f67c97101b5522da4d66bcea",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/190287dd7e580445f67c97101b5522da4d66bcea"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/79c951379640c651e07f2820be3084db7b8d12f9",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/79c951379640c651e07f2820be3084db7b8d12f9",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/79c951379640c651e07f2820be3084db7b8d12f9",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/79c951379640c651e07f2820be3084db7b8d12f9/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "0936245a87b090aef70cba4a3a0683439476d12d",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/0936245a87b090aef70cba4a3a0683439476d12d",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/0936245a87b090aef70cba4a3a0683439476d12d"
+}
+]
+},
+{
+"sha": "0936245a87b090aef70cba4a3a0683439476d12d",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6MDkzNjI0NWE4N2IwOTBhZWY3MGNiYTRhM2EwNjgzNDM5NDc2ZDEyZA==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@users.noreply.github.com",
+"date": "2020-12-07T14:15:24Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-07T14:15:24Z"
+},
+"message": "Merge pull request #2341 from vsoni101/patch-1\n\nUpdate article.md in section 2.8",
+"tree": {
+"sha": "2e6001323da3007a6393f50dcf309cc35692e78d",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/2e6001323da3007a6393f50dcf309cc35692e78d"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/0936245a87b090aef70cba4a3a0683439476d12d",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzjj8CRBK7hj4Ov3rIwAAdHIIAJPWdbiJGXpfWA3BQnEpM7Xh\nv2g9UIto6ZKmLzwK5Dq5Dtoz0AWz1XnIko2u3cy+/XtpEZLTs1ZVqs8r5h9XgPil\nqYKlUjsYfohrCgYcb/tP8pB5icYAquWHlfNaWM2bscJQ79/S4TpJHbckSczu9nNh\ng1zY7FR6GDudMom7CxtmW6C57mK+vwNlHHmr4ZQIBGCQmq8wScQyKzLqxMYjbIWc\nKaBSYSvk/eh67V0KEKaLv0imHqzPDOgO8cdZgzOcXs2B+iC+/hAB842GV/yyc41w\n+pLk/NWYlK2ajqondOM+bz03Xn+o54xB57G3tKoABQP/PD4BhzNvZNhtYrAuig8=\n=/0vy\n-----END PGP SIGNATURE-----\n",
+"payload": "tree 2e6001323da3007a6393f50dcf309cc35692e78d\nparent 1e4b9e43e478e6202c4b2b7f77532a18d857709d\nparent 3d86152fdd93fafdbd1c4863460651effdcec9dc\nauthor Ilya Kantor <iliakan@users.noreply.github.com> 1607350524 +0300\ncommitter GitHub <noreply@github.com> 1607350524 +0300\n\nMerge pull request #2341 from vsoni101/patch-1\n\nUpdate article.md in section 2.8"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/0936245a87b090aef70cba4a3a0683439476d12d",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/0936245a87b090aef70cba4a3a0683439476d12d",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/0936245a87b090aef70cba4a3a0683439476d12d/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "1e4b9e43e478e6202c4b2b7f77532a18d857709d",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/1e4b9e43e478e6202c4b2b7f77532a18d857709d",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/1e4b9e43e478e6202c4b2b7f77532a18d857709d"
+},
+{
+"sha": "3d86152fdd93fafdbd1c4863460651effdcec9dc",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/3d86152fdd93fafdbd1c4863460651effdcec9dc",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/3d86152fdd93fafdbd1c4863460651effdcec9dc"
+}
+]
+},
+{
+"sha": "1e4b9e43e478e6202c4b2b7f77532a18d857709d",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6MWU0YjllNDNlNDc4ZTYyMDJjNGIyYjdmNzc1MzJhMThkODU3NzA5ZA==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@users.noreply.github.com",
+"date": "2020-12-07T14:14:38Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-07T14:14:38Z"
+},
+"message": "Merge pull request #2359 from vsemozhetbyt/patch-1\n\nFix typo in 8.5 (Shadow DOM slots...)",
+"tree": {
+"sha": "f93de6696d7415b1f0472fb3499ff9f7265c2408",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/f93de6696d7415b1f0472fb3499ff9f7265c2408"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/1e4b9e43e478e6202c4b2b7f77532a18d857709d",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzjjOCRBK7hj4Ov3rIwAAdHIIAAZyO9TLZ7OeFKYGPTWWBZyR\nPhhuFe8X5LGFjUeB02x1zu7FiY0SL6rOJFmk0Do0aHL913xMjlho9o8h7XetsPdC\nsT49r4kqGlHNgQ+Aji8An8CmjMb5QQFjQgAY1jmL6BUt0HFe05ttJWFGWrzgDFUb\n38xUk4jOaKRXOU8OvbUkT7WCpCG8/sO7wnYBpAm3iE0JMAJYs3/dhV53qBYapfcw\n4L9FFUIMQf8o9ErA5gI3wQXS2vrTKi+NVPwJeeKCbYrFNy1ZcVqEZiA0ks9QSsZi\nSbzyV1f4B5AD+VXKSA+kWPazPZWoSA0b2m+iDsrIrEWH4MrazilTGtueQLkNLgU=\n=3Fgo\n-----END PGP SIGNATURE-----\n",
+"payload": "tree f93de6696d7415b1f0472fb3499ff9f7265c2408\nparent c56e6a57ac3497aab77128c5bfca13513980709b\nparent 76b42c3189dc5004b643cc77f3361a5b79bad966\nauthor Ilya Kantor <iliakan@users.noreply.github.com> 1607350478 +0300\ncommitter GitHub <noreply@github.com> 1607350478 +0300\n\nMerge pull request #2359 from vsemozhetbyt/patch-1\n\nFix typo in 8.5 (Shadow DOM slots...)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/1e4b9e43e478e6202c4b2b7f77532a18d857709d",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/1e4b9e43e478e6202c4b2b7f77532a18d857709d",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/1e4b9e43e478e6202c4b2b7f77532a18d857709d/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "c56e6a57ac3497aab77128c5bfca13513980709b",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/c56e6a57ac3497aab77128c5bfca13513980709b",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/c56e6a57ac3497aab77128c5bfca13513980709b"
+},
+{
+"sha": "76b42c3189dc5004b643cc77f3361a5b79bad966",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/76b42c3189dc5004b643cc77f3361a5b79bad966",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/76b42c3189dc5004b643cc77f3361a5b79bad966"
+}
+]
+},
+{
+"sha": "76b42c3189dc5004b643cc77f3361a5b79bad966",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NzZiNDJjMzE4OWRjNTAwNGI2NDNjYzc3ZjMzNjFhNWI3OWJhZDk2Ng==",
+"commit": {
+"author": {
+"name": "Vse Mozhe Buty",
+"email": "vsemozhetbyt@gmail.com",
+"date": "2020-12-06T20:08:01Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-06T20:08:01Z"
+},
+"message": "Fix typo in 8.5 (Shadow DOM slots...)",
+"tree": {
+"sha": "f93de6696d7415b1f0472fb3499ff9f7265c2408",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/f93de6696d7415b1f0472fb3499ff9f7265c2408"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/76b42c3189dc5004b643cc77f3361a5b79bad966",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzTohCRBK7hj4Ov3rIwAAdHIIAK6BAQhKeLnhfR6nJeILQZOW\noR06kJ40r+zdpqEKICJIZ4H7m0pjlSfaOoETv+4oDiGeKexocuuPWgJG86s/RR8M\nEyC0ZJS5P5uYjjIHWTX0AAm6raVv3eopVldQOe2btnMvpR0UmGqRAR8xcyEueP5w\nfRh8ujl4LCBSZn97p1qsf+uLV1UzU3xzwiWGioe4e+BOi3r3lohML6XSs8hmQLhE\nRbvv29I/ppbRKiNndvg3NlW55qPfbqnN2cOHy19Mb8LpydGqOSpwhAspDNgKlsOc\nBpgEnWtC4z47AWd0lZ0/LXK7vryFhgCJf/+ax7p6Xbzx1A36Cdv6WyjCjUznJ74=\n=JHp/\n-----END PGP SIGNATURE-----\n",
+"payload": "tree f93de6696d7415b1f0472fb3499ff9f7265c2408\nparent c56e6a57ac3497aab77128c5bfca13513980709b\nauthor Vse Mozhe Buty <vsemozhetbyt@gmail.com> 1607285281 +0200\ncommitter GitHub <noreply@github.com> 1607285281 +0200\n\nFix typo in 8.5 (Shadow DOM slots...)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/76b42c3189dc5004b643cc77f3361a5b79bad966",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/76b42c3189dc5004b643cc77f3361a5b79bad966",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/76b42c3189dc5004b643cc77f3361a5b79bad966/comments",
+"author": {
+"login": "vsemozhetbyt",
+"id": 10393198,
+"node_id": "MDQ6VXNlcjEwMzkzMTk4",
+"avatar_url": "https://avatars1.githubusercontent.com/u/10393198?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vsemozhetbyt",
+"html_url": "https://github.com/vsemozhetbyt",
+"followers_url": "https://api.github.com/users/vsemozhetbyt/followers",
+"following_url": "https://api.github.com/users/vsemozhetbyt/following{/other_user}",
+"gists_url": "https://api.github.com/users/vsemozhetbyt/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/vsemozhetbyt/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/vsemozhetbyt/subscriptions",
+"organizations_url": "https://api.github.com/users/vsemozhetbyt/orgs",
+"repos_url": "https://api.github.com/users/vsemozhetbyt/repos",
+"events_url": "https://api.github.com/users/vsemozhetbyt/events{/privacy}",
+"received_events_url": "https://api.github.com/users/vsemozhetbyt/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "c56e6a57ac3497aab77128c5bfca13513980709b",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/c56e6a57ac3497aab77128c5bfca13513980709b",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/c56e6a57ac3497aab77128c5bfca13513980709b"
+}
+]
+},
+{
+"sha": "c56e6a57ac3497aab77128c5bfca13513980709b",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6YzU2ZTZhNTdhYzM0OTdhYWI3NzEyOGM1YmZjYTEzNTEzOTgwNzA5Yg==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@users.noreply.github.com",
+"date": "2020-12-06T16:40:33Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-06T16:40:33Z"
+},
+"message": "Merge pull request #2357 from vsemozhetbyt/patch-1\n\nSync examples from 2 commits in 8.5 (Shadow DOM slots...)",
+"tree": {
+"sha": "3729a3ec5cc5f8a38728cd1974dcc9fe951a2cd5",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/3729a3ec5cc5f8a38728cd1974dcc9fe951a2cd5"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/c56e6a57ac3497aab77128c5bfca13513980709b",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzQmBCRBK7hj4Ov3rIwAAdHIIAEXN5/RlMYSeWpBTYq04S5In\n4pnoEw3+hp12+ckb+bMbVxpd1TnhJ7YJpPF8x1fy9N/5bZMm7q6G4Spe9eF9FOV+\nX9IwU4roU22XIlE+CtQksBGNTjS7oC+2wThmvy4r8k8iJPi0UVoySZJnpZg47j/9\nfMMmqzVeEzoVp1NeO0OOdE+JM0ksKhdvFVD/BlNAdARfvwkY/2GxhU+uwSuf+19I\n/b/N39N+4jrUEkJqiV01oUps6mc2vs+be6AZbl1juOZfDKvn8wlL4qmZdrhtM/3V\nOasE4PPd0F9YjnpBgBTIHQilLdhyZhVW+GKYXfi/7ZV+mC18nPN4dY0Zt2Bu27Q=\n=mjWK\n-----END PGP SIGNATURE-----\n",
+"payload": "tree 3729a3ec5cc5f8a38728cd1974dcc9fe951a2cd5\nparent 68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e\nparent 59a579f566c5299276db1ce9ed4cd2b8221b4064\nauthor Ilya Kantor <iliakan@users.noreply.github.com> 1607272833 +0300\ncommitter GitHub <noreply@github.com> 1607272833 +0300\n\nMerge pull request #2357 from vsemozhetbyt/patch-1\n\nSync examples from 2 commits in 8.5 (Shadow DOM slots...)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/c56e6a57ac3497aab77128c5bfca13513980709b",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/c56e6a57ac3497aab77128c5bfca13513980709b",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/c56e6a57ac3497aab77128c5bfca13513980709b/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e"
+},
+{
+"sha": "59a579f566c5299276db1ce9ed4cd2b8221b4064",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/59a579f566c5299276db1ce9ed4cd2b8221b4064",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/59a579f566c5299276db1ce9ed4cd2b8221b4064"
+}
+]
+},
+{
+"sha": "59a579f566c5299276db1ce9ed4cd2b8221b4064",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NTlhNTc5ZjU2NmM1Mjk5Mjc2ZGIxY2U5ZWQ0Y2QyYjgyMjFiNDA2NA==",
+"commit": {
+"author": {
+"name": "Vse Mozhe Buty",
+"email": "vsemozhetbyt@gmail.com",
+"date": "2020-12-06T16:30:45Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-06T16:30:45Z"
+},
+"message": "Sync examples from 2 commits in 8.5 (Shadow DOM slots...)",
+"tree": {
+"sha": "3729a3ec5cc5f8a38728cd1974dcc9fe951a2cd5",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/3729a3ec5cc5f8a38728cd1974dcc9fe951a2cd5"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/59a579f566c5299276db1ce9ed4cd2b8221b4064",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzQc1CRBK7hj4Ov3rIwAAdHIIAKjnQlkkhOyplksRdJAa2DCy\n3EkbI5hQa/IXBtHRkLJAaQUgopEMzkURQOOFchOw8w6tR7zFeA5XDMi7h83Xs+W1\n50+Mo0Wa+hghJDT0n1t21qb+VzPgyJBmUc8DQDhoTLzhqr8v0wpbg4r4mkWpHhv3\n5qy7qw0Ikn61n0SZ+uJRlYXVIqt0zuqylg1MQPClb/VoPp3Nr8l6sSpdiRo0AmfO\n/nc6LZi2Idv48FmwJhPUcDI+Jli7V2u5neAuWZZ8ruTlmSaRZJUFMrZw8L87WCfg\nsXMY/DR8ZJ4QEzGG6CV/FlSV9iXt6r1afh78yFNucejlyDq0853JTtegtxk7POo=\n=lvqv\n-----END PGP SIGNATURE-----\n",
+"payload": "tree 3729a3ec5cc5f8a38728cd1974dcc9fe951a2cd5\nparent 68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e\nauthor Vse Mozhe Buty <vsemozhetbyt@gmail.com> 1607272245 +0200\ncommitter GitHub <noreply@github.com> 1607272245 +0200\n\nSync examples from 2 commits in 8.5 (Shadow DOM slots...)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/59a579f566c5299276db1ce9ed4cd2b8221b4064",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/59a579f566c5299276db1ce9ed4cd2b8221b4064",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/59a579f566c5299276db1ce9ed4cd2b8221b4064/comments",
+"author": {
+"login": "vsemozhetbyt",
+"id": 10393198,
+"node_id": "MDQ6VXNlcjEwMzkzMTk4",
+"avatar_url": "https://avatars1.githubusercontent.com/u/10393198?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vsemozhetbyt",
+"html_url": "https://github.com/vsemozhetbyt",
+"followers_url": "https://api.github.com/users/vsemozhetbyt/followers",
+"following_url": "https://api.github.com/users/vsemozhetbyt/following{/other_user}",
+"gists_url": "https://api.github.com/users/vsemozhetbyt/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/vsemozhetbyt/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/vsemozhetbyt/subscriptions",
+"organizations_url": "https://api.github.com/users/vsemozhetbyt/orgs",
+"repos_url": "https://api.github.com/users/vsemozhetbyt/repos",
+"events_url": "https://api.github.com/users/vsemozhetbyt/events{/privacy}",
+"received_events_url": "https://api.github.com/users/vsemozhetbyt/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e"
+}
+]
+},
+{
+"sha": "68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NjhkZmE5NWRhYTNhYWYyNGY1YzM2YWNmMjY1YzY3NzBhYTBjZmMwZQ==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-06T14:36:59Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-06T14:36:59Z"
+},
+"message": "minor fixes",
+"tree": {
+"sha": "855d96e7bf9efdf1ef876776b0e11e1baeb2b7cc",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/855d96e7bf9efdf1ef876776b0e11e1baeb2b7cc"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/68dfa95daa3aaf24f5c36acf265c6770aa0cfc0e/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "f30b4f2f7dc4c61a4bc499ed6b739d206b13bda2",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/f30b4f2f7dc4c61a4bc499ed6b739d206b13bda2",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/f30b4f2f7dc4c61a4bc499ed6b739d206b13bda2"
+}
+]
+},
+{
+"sha": "f30b4f2f7dc4c61a4bc499ed6b739d206b13bda2",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6ZjMwYjRmMmY3ZGM0YzYxYTRiYzQ5OWVkNmI3MzlkMjA2YjEzYmRhMg==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@users.noreply.github.com",
+"date": "2020-12-06T14:36:02Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-06T14:36:02Z"
+},
+"message": "Merge pull request #2356 from vsemozhetbyt/patch-1\n\nFix possible typos in 1.3.6 (Polyfills and transpilers)",
+"tree": {
+"sha": "62d83c46f1b053a8a170e1ba3fc94af479b8e02b",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/62d83c46f1b053a8a170e1ba3fc94af479b8e02b"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/f30b4f2f7dc4c61a4bc499ed6b739d206b13bda2",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzOxSCRBK7hj4Ov3rIwAAdHIIAB1UFw9pZ3iOFQD2cgKbwbtG\nh2lXjvHIQt37whMvoc25qOhiPEIp/29zWuHrwMw9IesEwF8WrPIoJmu29UXW0Q/L\nbgTRwONbK4RClret7KHzbKjoTgorhQHRHq/TN8E3BBgtiB7RjDwi1dz4kNIaN03J\n412OgFt801YVb0M/en9RYLdVufR7X3Ec9KIN8DGPVfjmRRx335FIZjLL7JGpsvK6\ndJhbtGFGtpaZW9lT3VMgnrwsaAVGDHjDUUJQDzVgsgOTWexXFcuEWQIYlJ86H8JF\nB4PnhpOeVHtxCDGy86wOgTb4zJQWixwLcIjlJdHmzKHfnR7LQlYGZEOnPl4QDfo=\n=qhGv\n-----END PGP SIGNATURE-----\n",
+"payload": "tree 62d83c46f1b053a8a170e1ba3fc94af479b8e02b\nparent 433ef6d3335fd37b3e8559a4cf3275befdcace16\nparent eb81e529bea482f658658d861f30233fb5bf8261\nauthor Ilya Kantor <iliakan@users.noreply.github.com> 1607265362 +0300\ncommitter GitHub <noreply@github.com> 1607265362 +0300\n\nMerge pull request #2356 from vsemozhetbyt/patch-1\n\nFix possible typos in 1.3.6 (Polyfills and transpilers)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/f30b4f2f7dc4c61a4bc499ed6b739d206b13bda2",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/f30b4f2f7dc4c61a4bc499ed6b739d206b13bda2",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/f30b4f2f7dc4c61a4bc499ed6b739d206b13bda2/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "433ef6d3335fd37b3e8559a4cf3275befdcace16",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/433ef6d3335fd37b3e8559a4cf3275befdcace16",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/433ef6d3335fd37b3e8559a4cf3275befdcace16"
+},
+{
+"sha": "eb81e529bea482f658658d861f30233fb5bf8261",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/eb81e529bea482f658658d861f30233fb5bf8261",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/eb81e529bea482f658658d861f30233fb5bf8261"
+}
+]
+},
+{
+"sha": "eb81e529bea482f658658d861f30233fb5bf8261",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6ZWI4MWU1MjliZWE0ODJmNjU4NjU4ZDg2MWYzMDIzM2ZiNWJmODI2MQ==",
+"commit": {
+"author": {
+"name": "Vse Mozhe Buty",
+"email": "vsemozhetbyt@gmail.com",
+"date": "2020-12-06T14:26:39Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-06T14:26:39Z"
+},
+"message": "Fix possible typos in 1.3.6 (Polyfills and transpilers)",
+"tree": {
+"sha": "62d83c46f1b053a8a170e1ba3fc94af479b8e02b",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/62d83c46f1b053a8a170e1ba3fc94af479b8e02b"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/eb81e529bea482f658658d861f30233fb5bf8261",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzOofCRBK7hj4Ov3rIwAAdHIIAHZPwMuMboBC6ByfVBFzjWyA\nBbWbpdWetAUdGdlVmHL8710xi8fUibtPC+exdVTEneBcFqU3OSkeGMnD50EvAo7v\ndKuSdwJXTTITKphhKXGS+NFJSBkqsvOxwmXw1Mu9bsavu/CNkCuhKdnvkFCqsuSd\n5oLM6nAX/Pa4EGbhnoGVvVSjWxCDC34/UbkYbCf4Lw3eP5xvCcX3883Q4227PLke\nrR0MkynE0oZVpAC9+zoTRSeRAE0T6kseA3LD806wqe8FBRKxelzT5dFB8Dm6rCnv\n98dqtSHE9EUb1BeJvXGGJDhNf+TYfjivgADvlTRlceu00u2FX5Xx2N9yhdGjXko=\n=WwOz\n-----END PGP SIGNATURE-----\n",
+"payload": "tree 62d83c46f1b053a8a170e1ba3fc94af479b8e02b\nparent 433ef6d3335fd37b3e8559a4cf3275befdcace16\nauthor Vse Mozhe Buty <vsemozhetbyt@gmail.com> 1607264799 +0200\ncommitter GitHub <noreply@github.com> 1607264799 +0200\n\nFix possible typos in 1.3.6 (Polyfills and transpilers)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/eb81e529bea482f658658d861f30233fb5bf8261",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/eb81e529bea482f658658d861f30233fb5bf8261",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/eb81e529bea482f658658d861f30233fb5bf8261/comments",
+"author": {
+"login": "vsemozhetbyt",
+"id": 10393198,
+"node_id": "MDQ6VXNlcjEwMzkzMTk4",
+"avatar_url": "https://avatars1.githubusercontent.com/u/10393198?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vsemozhetbyt",
+"html_url": "https://github.com/vsemozhetbyt",
+"followers_url": "https://api.github.com/users/vsemozhetbyt/followers",
+"following_url": "https://api.github.com/users/vsemozhetbyt/following{/other_user}",
+"gists_url": "https://api.github.com/users/vsemozhetbyt/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/vsemozhetbyt/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/vsemozhetbyt/subscriptions",
+"organizations_url": "https://api.github.com/users/vsemozhetbyt/orgs",
+"repos_url": "https://api.github.com/users/vsemozhetbyt/repos",
+"events_url": "https://api.github.com/users/vsemozhetbyt/events{/privacy}",
+"received_events_url": "https://api.github.com/users/vsemozhetbyt/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "433ef6d3335fd37b3e8559a4cf3275befdcace16",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/433ef6d3335fd37b3e8559a4cf3275befdcace16",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/433ef6d3335fd37b3e8559a4cf3275befdcace16"
+}
+]
+},
+{
+"sha": "433ef6d3335fd37b3e8559a4cf3275befdcace16",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NDMzZWY2ZDMzMzVmZDM3YjNlODU1OWE0Y2YzMjc1YmVmZGNhY2UxNg==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@users.noreply.github.com",
+"date": "2020-12-06T12:14:57Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-06T12:14:57Z"
+},
+"message": "Merge pull request #2355 from vsemozhetbyt/patch-1\n\nFix typo in 8.3 (Shadow DOM)",
+"tree": {
+"sha": "b9eceaa4f06da95d75a671b56443d8e740b85cb4",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/b9eceaa4f06da95d75a671b56443d8e740b85cb4"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/433ef6d3335fd37b3e8559a4cf3275befdcace16",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzMtBCRBK7hj4Ov3rIwAAdHIIAJfojOQ9x+mqvZ83kIuFMLJG\n2r2oSBO4luDJ4zOEtHAYEb3Lg8crJkqTQBH5oCI73ySz3mZkU9qQWBVbmdrDweQm\nRLPn71Bkf0EgjwJtbGIFF5oVIxriLrOYLqjI8x+3DuE4OlDds9uJgLBLvldX5GNr\nlRK/72/RGkgXOqzcmxSg2DgQdA0BWhTrRSLDuE9h6KUBdSDLfvNWenAMQIrymBic\nzIlz6mg/cXnQWVejD66n/Y4eHpJi3Ud1CHA5xSgMYV0db0lTnchYOrqkEwaWoB09\nNww6RJGF14CllWakQZSkZu71bbOkOi/LopbiNli+rpwpLndXjRkcW635+gXVxDc=\n=RE2r\n-----END PGP SIGNATURE-----\n",
+"payload": "tree b9eceaa4f06da95d75a671b56443d8e740b85cb4\nparent bb5c89a7017ae5b032837b8eb9c556e084163c4d\nparent e194ec2e2267182c968f0047af257666004e91cd\nauthor Ilya Kantor <iliakan@users.noreply.github.com> 1607256897 +0300\ncommitter GitHub <noreply@github.com> 1607256897 +0300\n\nMerge pull request #2355 from vsemozhetbyt/patch-1\n\nFix typo in 8.3 (Shadow DOM)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/433ef6d3335fd37b3e8559a4cf3275befdcace16",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/433ef6d3335fd37b3e8559a4cf3275befdcace16",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/433ef6d3335fd37b3e8559a4cf3275befdcace16/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "bb5c89a7017ae5b032837b8eb9c556e084163c4d",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/bb5c89a7017ae5b032837b8eb9c556e084163c4d",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/bb5c89a7017ae5b032837b8eb9c556e084163c4d"
+},
+{
+"sha": "e194ec2e2267182c968f0047af257666004e91cd",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/e194ec2e2267182c968f0047af257666004e91cd",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/e194ec2e2267182c968f0047af257666004e91cd"
+}
+]
+},
+{
+"sha": "e194ec2e2267182c968f0047af257666004e91cd",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6ZTE5NGVjMmUyMjY3MTgyYzk2OGYwMDQ3YWYyNTc2NjYwMDRlOTFjZA==",
+"commit": {
+"author": {
+"name": "Vse Mozhe Buty",
+"email": "vsemozhetbyt@gmail.com",
+"date": "2020-12-06T12:13:54Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-06T12:13:54Z"
+},
+"message": "Fix typo in 8.3 (Shadow DOM)",
+"tree": {
+"sha": "b9eceaa4f06da95d75a671b56443d8e740b85cb4",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/b9eceaa4f06da95d75a671b56443d8e740b85cb4"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/e194ec2e2267182c968f0047af257666004e91cd",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzMsCCRBK7hj4Ov3rIwAAdHIIAD501hgx6QmqDubDaMMIrBw5\nMAwTcz5beWQtd2mPU/3h8Nh/vq/Q88IWv+7Pg9eMh/9mssXlsBQspEmGx1SM+pbn\nS2VOfyqESsabjdl6myVu7OuU3PKJIdANTK7j4Dcerpxy7oYCLZLvn+kTqY787mq3\nVklK8x0kyshYjRpttHWEOJZaJwncAgh+yoHumFPY0jkr2uE5Ln3fdMLaUBU/LJIt\ngriRN/EnuVAS4sRh2IhInBTsHBg5WeRkrFTwo0f7f0N+q9uK35QxwgU/52hEgXjI\nF9zJrOL6l36ymVHv7Z+p8IOMSBudIw2ixJg6fdfePXMLndDPT9McG6DhnJEpm9Q=\n=dxRV\n-----END PGP SIGNATURE-----\n",
+"payload": "tree b9eceaa4f06da95d75a671b56443d8e740b85cb4\nparent bb5c89a7017ae5b032837b8eb9c556e084163c4d\nauthor Vse Mozhe Buty <vsemozhetbyt@gmail.com> 1607256834 +0200\ncommitter GitHub <noreply@github.com> 1607256834 +0200\n\nFix typo in 8.3 (Shadow DOM)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/e194ec2e2267182c968f0047af257666004e91cd",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/e194ec2e2267182c968f0047af257666004e91cd",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/e194ec2e2267182c968f0047af257666004e91cd/comments",
+"author": {
+"login": "vsemozhetbyt",
+"id": 10393198,
+"node_id": "MDQ6VXNlcjEwMzkzMTk4",
+"avatar_url": "https://avatars1.githubusercontent.com/u/10393198?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vsemozhetbyt",
+"html_url": "https://github.com/vsemozhetbyt",
+"followers_url": "https://api.github.com/users/vsemozhetbyt/followers",
+"following_url": "https://api.github.com/users/vsemozhetbyt/following{/other_user}",
+"gists_url": "https://api.github.com/users/vsemozhetbyt/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/vsemozhetbyt/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/vsemozhetbyt/subscriptions",
+"organizations_url": "https://api.github.com/users/vsemozhetbyt/orgs",
+"repos_url": "https://api.github.com/users/vsemozhetbyt/repos",
+"events_url": "https://api.github.com/users/vsemozhetbyt/events{/privacy}",
+"received_events_url": "https://api.github.com/users/vsemozhetbyt/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "bb5c89a7017ae5b032837b8eb9c556e084163c4d",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/bb5c89a7017ae5b032837b8eb9c556e084163c4d",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/bb5c89a7017ae5b032837b8eb9c556e084163c4d"
+}
+]
+},
+{
+"sha": "bb5c89a7017ae5b032837b8eb9c556e084163c4d",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6YmI1Yzg5YTcwMTdhZTViMDMyODM3YjhlYjljNTU2ZTA4NDE2M2M0ZA==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@users.noreply.github.com",
+"date": "2020-12-06T08:54:50Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-06T08:54:50Z"
+},
+"message": "Merge pull request #2354 from vsemozhetbyt/patch-1\n\nFix typo in 8.2 (Custom elements)",
+"tree": {
+"sha": "c80d4340e35361fb47d2b8f9d2aa2e6c1a79b5b7",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/c80d4340e35361fb47d2b8f9d2aa2e6c1a79b5b7"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/bb5c89a7017ae5b032837b8eb9c556e084163c4d",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfzJxaCRBK7hj4Ov3rIwAAdHIIAAAViqU4nwYVUCorHmxndlZz\n7iZo+ZJBiOFJ+RtHkhBsp8TGNkesNRtERrb3v92zHcjiRHjXIMRPjKaAuWo0nUEw\nlJgLadK90SSI/oFQLFqNrXEWYNe56uLw/EylLXLsi3I2cwzY9W7xULjwzKvtjj4A\nf8hpSElOwFYLiKgTD4Hho4HtrsQKXXiXpIMzyGZJlyro6kk8iwHzTv23pLo3RU9J\ncYryOQ6k14iEtyMrjoqMnaupGbyAQWxh3kZpimHJzsecDI7fMPJ9TifvCK/YORmR\nQp9AQz0sNPyXNYSb/BttR6Jf+zIzOLohQvop/5D7OYU9aRevSPkx+lyU9OGpAqE=\n=ChsM\n-----END PGP SIGNATURE-----\n",
+"payload": "tree c80d4340e35361fb47d2b8f9d2aa2e6c1a79b5b7\nparent e8d29cb49bad434b78e6a42c52c14500f01f65e1\nparent b55c22687977852088cc9c95b08123579bc50a53\nauthor Ilya Kantor <iliakan@users.noreply.github.com> 1607244890 +0300\ncommitter GitHub <noreply@github.com> 1607244890 +0300\n\nMerge pull request #2354 from vsemozhetbyt/patch-1\n\nFix typo in 8.2 (Custom elements)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/bb5c89a7017ae5b032837b8eb9c556e084163c4d",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/bb5c89a7017ae5b032837b8eb9c556e084163c4d",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/bb5c89a7017ae5b032837b8eb9c556e084163c4d/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "e8d29cb49bad434b78e6a42c52c14500f01f65e1",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/e8d29cb49bad434b78e6a42c52c14500f01f65e1",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/e8d29cb49bad434b78e6a42c52c14500f01f65e1"
+},
+{
+"sha": "b55c22687977852088cc9c95b08123579bc50a53",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/b55c22687977852088cc9c95b08123579bc50a53",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/b55c22687977852088cc9c95b08123579bc50a53"
+}
+]
+},
+{
+"sha": "e8d29cb49bad434b78e6a42c52c14500f01f65e1",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6ZThkMjljYjQ5YmFkNDM0Yjc4ZTZhNDJjNTJjMTQ1MDBmMDFmNjVlMQ==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-06T08:54:22Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-06T08:54:22Z"
+},
+"message": "closes #2173",
+"tree": {
+"sha": "22fa0e1a5ac02ba2360b3a894cbb05a6831a55f9",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/22fa0e1a5ac02ba2360b3a894cbb05a6831a55f9"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/e8d29cb49bad434b78e6a42c52c14500f01f65e1",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/e8d29cb49bad434b78e6a42c52c14500f01f65e1",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/e8d29cb49bad434b78e6a42c52c14500f01f65e1",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/e8d29cb49bad434b78e6a42c52c14500f01f65e1/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "211e20992e711afc83db800e63a417e32ad8cf99",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/211e20992e711afc83db800e63a417e32ad8cf99",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/211e20992e711afc83db800e63a417e32ad8cf99"
+}
+]
+},
+{
+"sha": "b55c22687977852088cc9c95b08123579bc50a53",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6YjU1YzIyNjg3OTc3ODUyMDg4Y2M5Yzk1YjA4MTIzNTc5YmM1MGE1Mw==",
+"commit": {
+"author": {
+"name": "Vse Mozhe Buty",
+"email": "vsemozhetbyt@gmail.com",
+"date": "2020-12-05T21:29:14Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-05T21:29:14Z"
+},
+"message": "Fix typo in 8.2 (Custom elements)",
+"tree": {
+"sha": "55b377330534e187f76f17e539a52d972855ee42",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/55b377330534e187f76f17e539a52d972855ee42"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/b55c22687977852088cc9c95b08123579bc50a53",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfy/uqCRBK7hj4Ov3rIwAAdHIIAI0cwExY2ZkzoRJOtI7GIdzi\nGj8iazinabXqmqpE/VJKpgvSAfOV+JkqfzX2NNFrGUSa/tvIXpEHelNa5O4V3DWb\nj3d5XdbtoD08HjSz5ah/3bZZ0H1H8EYEdCG8UvU7lo++vMv/Blt9hsENSBKwrA8E\nlfFbuPZ+kSCihBTx4l4UYrNgrMxu+aG4eIm0SMRZdrOywjNRLVZX8rduBOj/pFrR\n/iJoHsLgBhaQ50YsUoYhSi+ReQB0QQq8zAD2+Rk8KVSGcPE2PnETwTaY0BazLIMA\n0sHma/zVwB9+jFmVyKlTTitv4npiLGZToNhQSUb5Ni1BiNDboNWXtlaWDQCtpmg=\n=3PVt\n-----END PGP SIGNATURE-----\n",
+"payload": "tree 55b377330534e187f76f17e539a52d972855ee42\nparent 211e20992e711afc83db800e63a417e32ad8cf99\nauthor Vse Mozhe Buty <vsemozhetbyt@gmail.com> 1607203754 +0200\ncommitter GitHub <noreply@github.com> 1607203754 +0200\n\nFix typo in 8.2 (Custom elements)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/b55c22687977852088cc9c95b08123579bc50a53",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/b55c22687977852088cc9c95b08123579bc50a53",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/b55c22687977852088cc9c95b08123579bc50a53/comments",
+"author": {
+"login": "vsemozhetbyt",
+"id": 10393198,
+"node_id": "MDQ6VXNlcjEwMzkzMTk4",
+"avatar_url": "https://avatars1.githubusercontent.com/u/10393198?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/vsemozhetbyt",
+"html_url": "https://github.com/vsemozhetbyt",
+"followers_url": "https://api.github.com/users/vsemozhetbyt/followers",
+"following_url": "https://api.github.com/users/vsemozhetbyt/following{/other_user}",
+"gists_url": "https://api.github.com/users/vsemozhetbyt/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/vsemozhetbyt/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/vsemozhetbyt/subscriptions",
+"organizations_url": "https://api.github.com/users/vsemozhetbyt/orgs",
+"repos_url": "https://api.github.com/users/vsemozhetbyt/repos",
+"events_url": "https://api.github.com/users/vsemozhetbyt/events{/privacy}",
+"received_events_url": "https://api.github.com/users/vsemozhetbyt/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "211e20992e711afc83db800e63a417e32ad8cf99",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/211e20992e711afc83db800e63a417e32ad8cf99",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/211e20992e711afc83db800e63a417e32ad8cf99"
+}
+]
+},
+{
+"sha": "211e20992e711afc83db800e63a417e32ad8cf99",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6MjExZTIwOTkyZTcxMWFmYzgzZGI4MDBlNjNhNDE3ZTMyYWQ4Y2Y5OQ==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T20:09:36Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T20:09:36Z"
+},
+"message": "closes #2225",
+"tree": {
+"sha": "607ac2cd7c90bb2460ac9b8b6199398b2dc591cb",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/607ac2cd7c90bb2460ac9b8b6199398b2dc591cb"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/211e20992e711afc83db800e63a417e32ad8cf99",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/211e20992e711afc83db800e63a417e32ad8cf99",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/211e20992e711afc83db800e63a417e32ad8cf99",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/211e20992e711afc83db800e63a417e32ad8cf99/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "0585eda7553162cd84a840d0673e0dd6462c75dc",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/0585eda7553162cd84a840d0673e0dd6462c75dc",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/0585eda7553162cd84a840d0673e0dd6462c75dc"
+}
+]
+},
+{
+"sha": "0585eda7553162cd84a840d0673e0dd6462c75dc",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6MDU4NWVkYTc1NTMxNjJjZDg0YTg0MGQwNjczZTBkZDY0NjJjNzVkYw==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T20:06:01Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T20:06:01Z"
+},
+"message": "closes #2248",
+"tree": {
+"sha": "b2df18a04c20e3b8c4badba1268758865ff0c189",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/b2df18a04c20e3b8c4badba1268758865ff0c189"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/0585eda7553162cd84a840d0673e0dd6462c75dc",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/0585eda7553162cd84a840d0673e0dd6462c75dc",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/0585eda7553162cd84a840d0673e0dd6462c75dc",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/0585eda7553162cd84a840d0673e0dd6462c75dc/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "ec4dcb279ac00ee407e116aec557af8efa98e6cf",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/ec4dcb279ac00ee407e116aec557af8efa98e6cf",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/ec4dcb279ac00ee407e116aec557af8efa98e6cf"
+}
+]
+},
+{
+"sha": "ec4dcb279ac00ee407e116aec557af8efa98e6cf",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6ZWM0ZGNiMjc5YWMwMGVlNDA3ZTExNmFlYzU1N2FmOGVmYTk4ZTZjZg==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T20:02:20Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T20:02:20Z"
+},
+"message": "closes #2353",
+"tree": {
+"sha": "9abfe505ae6c36f9652b2daeff9444fc85ce57e9",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/9abfe505ae6c36f9652b2daeff9444fc85ce57e9"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/ec4dcb279ac00ee407e116aec557af8efa98e6cf",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/ec4dcb279ac00ee407e116aec557af8efa98e6cf",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/ec4dcb279ac00ee407e116aec557af8efa98e6cf",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/ec4dcb279ac00ee407e116aec557af8efa98e6cf/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "63d0f055fcd2dfd4e0affaa600134e161389731b",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/63d0f055fcd2dfd4e0affaa600134e161389731b",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/63d0f055fcd2dfd4e0affaa600134e161389731b"
+}
+]
+},
+{
+"sha": "63d0f055fcd2dfd4e0affaa600134e161389731b",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NjNkMGYwNTVmY2QyZGZkNGUwYWZmYWE2MDAxMzRlMTYxMzg5NzMxYg==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T19:30:33Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T19:30:51Z"
+},
+"message": "closes #2244",
+"tree": {
+"sha": "ce594082110f9c0537ffd72469111830d4110ec7",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/ce594082110f9c0537ffd72469111830d4110ec7"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/63d0f055fcd2dfd4e0affaa600134e161389731b",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/63d0f055fcd2dfd4e0affaa600134e161389731b",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/63d0f055fcd2dfd4e0affaa600134e161389731b",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/63d0f055fcd2dfd4e0affaa600134e161389731b/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "6daaaa224f179449ab1ee8a05f5a3110af5fa041",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/6daaaa224f179449ab1ee8a05f5a3110af5fa041",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/6daaaa224f179449ab1ee8a05f5a3110af5fa041"
+}
+]
+},
+{
+"sha": "6daaaa224f179449ab1ee8a05f5a3110af5fa041",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NmRhYWFhMjI0ZjE3OTQ0OWFiMWVlOGEwNWY1YTMxMTBhZjVmYTA0MQ==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@users.noreply.github.com",
+"date": "2020-12-05T19:16:42Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-05T19:16:42Z"
+},
+"message": "Update article.md",
+"tree": {
+"sha": "8a2156a60122fa85c87db1b2128295a33e92abe8",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/8a2156a60122fa85c87db1b2128295a33e92abe8"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/6daaaa224f179449ab1ee8a05f5a3110af5fa041",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfy9yaCRBK7hj4Ov3rIwAAdHIIACReydq8n5sb+pGMh3iZY2E1\nLo88sckRqQjhSUeTQt8yYCxOxpOtVyEZZU3/lNvUZi+eztLYELd5oV/2KJ9cWYVJ\nJ8kIY3ldUAkFvsicohlj+FY7aXmm3Js4lBDr00eddw8xw2VJVy0Mf+BnRVI7uMVL\nbTUnhX18jpVVtQ36gT+CF4qkYXvlJINQMkBzbPH9W+dTDxxHMFfpjbXnsVJSYMmL\nHjNLaN23B5JHUSe3uuvOnoNrNqePfMo0vVPanFslVi9QsWOT7HWs0XMF93EVI2aM\n+5OA599zpGkL49gFTxcB0iX9sMGtZTkX/SuJ4AEPrMOG2bzJlMUlSxfoYBHWuJY=\n=zsBu\n-----END PGP SIGNATURE-----\n",
+"payload": "tree 8a2156a60122fa85c87db1b2128295a33e92abe8\nparent 08cc593cabcf1d8a545e08fee496e95dea7d570a\nauthor Ilya Kantor <iliakan@users.noreply.github.com> 1607195802 +0300\ncommitter GitHub <noreply@github.com> 1607195802 +0300\n\nUpdate article.md"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/6daaaa224f179449ab1ee8a05f5a3110af5fa041",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/6daaaa224f179449ab1ee8a05f5a3110af5fa041",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/6daaaa224f179449ab1ee8a05f5a3110af5fa041/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "08cc593cabcf1d8a545e08fee496e95dea7d570a",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/08cc593cabcf1d8a545e08fee496e95dea7d570a",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/08cc593cabcf1d8a545e08fee496e95dea7d570a"
+}
+]
+},
+{
+"sha": "08cc593cabcf1d8a545e08fee496e95dea7d570a",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6MDhjYzU5M2NhYmNmMWQ4YTU0NWUwOGZlZTQ5NmU5NWRlYTdkNTcwYQ==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T17:46:46Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T17:46:46Z"
+},
+"message": "minor fixes",
+"tree": {
+"sha": "ced5b7218371d55f3e48c0cfc9be3e92a981c3ab",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/ced5b7218371d55f3e48c0cfc9be3e92a981c3ab"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/08cc593cabcf1d8a545e08fee496e95dea7d570a",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/08cc593cabcf1d8a545e08fee496e95dea7d570a",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/08cc593cabcf1d8a545e08fee496e95dea7d570a",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/08cc593cabcf1d8a545e08fee496e95dea7d570a/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "a964025a5db677e3d848f088b3eb6844f1eb7529",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/a964025a5db677e3d848f088b3eb6844f1eb7529",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/a964025a5db677e3d848f088b3eb6844f1eb7529"
+}
+]
+},
+{
+"sha": "a964025a5db677e3d848f088b3eb6844f1eb7529",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6YTk2NDAyNWE1ZGI2NzdlM2Q4NDhmMDg4YjNlYjY4NDRmMWViNzUyOQ==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T17:41:32Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T17:41:32Z"
+},
+"message": "closes #2317",
+"tree": {
+"sha": "f84fea7a795d8eeccf0d9b67c4ff52736a0840ef",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/f84fea7a795d8eeccf0d9b67c4ff52736a0840ef"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/a964025a5db677e3d848f088b3eb6844f1eb7529",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/a964025a5db677e3d848f088b3eb6844f1eb7529",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/a964025a5db677e3d848f088b3eb6844f1eb7529",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/a964025a5db677e3d848f088b3eb6844f1eb7529/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "75a56dac98e22713f95d4948fc2b4060f38e3ccc",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/75a56dac98e22713f95d4948fc2b4060f38e3ccc",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/75a56dac98e22713f95d4948fc2b4060f38e3ccc"
+}
+]
+},
+{
+"sha": "75a56dac98e22713f95d4948fc2b4060f38e3ccc",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NzVhNTZkYWM5OGUyMjcxM2Y5NWQ0OTQ4ZmMyYjQwNjBmMzhlM2NjYw==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T16:54:51Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T16:54:51Z"
+},
+"message": "fixes #2318",
+"tree": {
+"sha": "52d80aaa76faa775e993c68c456ed1f1e4961451",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/52d80aaa76faa775e993c68c456ed1f1e4961451"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/75a56dac98e22713f95d4948fc2b4060f38e3ccc",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/75a56dac98e22713f95d4948fc2b4060f38e3ccc",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/75a56dac98e22713f95d4948fc2b4060f38e3ccc",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/75a56dac98e22713f95d4948fc2b4060f38e3ccc/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "6d9ab125f0ca73695aeb2f2b2d6900818d4ffe10",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/6d9ab125f0ca73695aeb2f2b2d6900818d4ffe10",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/6d9ab125f0ca73695aeb2f2b2d6900818d4ffe10"
+}
+]
+},
+{
+"sha": "6d9ab125f0ca73695aeb2f2b2d6900818d4ffe10",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NmQ5YWIxMjVmMGNhNzM2OTVhZWIyZjJiMmQ2OTAwODE4ZDRmZmUxMA==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T16:51:58Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T16:51:58Z"
+},
+"message": "fixes #2333",
+"tree": {
+"sha": "a8268077f35b059cfda08bc44136a06e06b052ee",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/a8268077f35b059cfda08bc44136a06e06b052ee"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/6d9ab125f0ca73695aeb2f2b2d6900818d4ffe10",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/6d9ab125f0ca73695aeb2f2b2d6900818d4ffe10",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/6d9ab125f0ca73695aeb2f2b2d6900818d4ffe10",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/6d9ab125f0ca73695aeb2f2b2d6900818d4ffe10/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "5ce6ce975eaadf2939b7f395b84250d2236737d8",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/5ce6ce975eaadf2939b7f395b84250d2236737d8",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/5ce6ce975eaadf2939b7f395b84250d2236737d8"
+}
+]
+},
+{
+"sha": "5ce6ce975eaadf2939b7f395b84250d2236737d8",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6NWNlNmNlOTc1ZWFhZGYyOTM5YjdmMzk1Yjg0MjUwZDIyMzY3MzdkOA==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T16:50:31Z"
+},
+"committer": {
+"name": "Ilya Kantor",
+"email": "iliakan@gmail.com",
+"date": "2020-12-05T16:50:31Z"
+},
+"message": "minor fixes",
+"tree": {
+"sha": "0ba7bf01dfdc7e6e06cba607e75e9e1db406ace9",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/0ba7bf01dfdc7e6e06cba607e75e9e1db406ace9"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/5ce6ce975eaadf2939b7f395b84250d2236737d8",
+"comment_count": 0,
+"verification": {
+"verified": false,
+"reason": "unsigned",
+"signature": null,
+"payload": null
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/5ce6ce975eaadf2939b7f395b84250d2236737d8",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/5ce6ce975eaadf2939b7f395b84250d2236737d8",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/5ce6ce975eaadf2939b7f395b84250d2236737d8/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "2741d5e7d8fb16d80351edff3c8b1de9192f3934",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/2741d5e7d8fb16d80351edff3c8b1de9192f3934",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/2741d5e7d8fb16d80351edff3c8b1de9192f3934"
+}
+]
+},
+{
+"sha": "2741d5e7d8fb16d80351edff3c8b1de9192f3934",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6Mjc0MWQ1ZTdkOGZiMTZkODAzNTFlZGZmM2M4YjFkZTkxOTJmMzkzNA==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@users.noreply.github.com",
+"date": "2020-12-05T16:42:03Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-05T16:42:03Z"
+},
+"message": "Merge pull request #2340 from vsemozhetbyt/patch-8\n\nFix possible typos in 6.3 (IndexedDB)",
+"tree": {
+"sha": "2e1ff545287bca203727c0926f50691b930902f7",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/2e1ff545287bca203727c0926f50691b930902f7"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/2741d5e7d8fb16d80351edff3c8b1de9192f3934",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfy7hbCRBK7hj4Ov3rIwAAdHIIAJbNIkJP0tcAF2eDS5ovKfDv\nPExZYWfXW9m+9YoIz5socb5NpOoXPAQdDe9YKH1YYfBjm7Dxw++RHvArAbDPChp+\nsTgA/msJKbECOJZx2SrRsN9J+623X6RyikB6HTxS0zzTt1A3YDu10FV6MOfDPDLx\nhMHRiRWyJL/qg0jJCt3R0j8X3neOzNluuIfUoF1jLEYTob3dRPLSfi2K5RSooCX7\nUJNAmAiANN2uMJV/TAfEk+lnLuySb+j2eYokow0TkCHJwQ/qvlVi1za5IEqif7I+\nUhXgTEop97d/sb8Dkc4SFmaIcrt/2sTUyzQAFr2zJvlF23C66Uoj3fhXBOkgrso=\n=Vow0\n-----END PGP SIGNATURE-----\n",
+"payload": "tree 2e1ff545287bca203727c0926f50691b930902f7\nparent d319026a14415c7053e77ae0a13471f9f100eedd\nparent fd85fc55210b12c5a7bcdf8c07ffef029f9a5fe2\nauthor Ilya Kantor <iliakan@users.noreply.github.com> 1607186523 +0300\ncommitter GitHub <noreply@github.com> 1607186523 +0300\n\nMerge pull request #2340 from vsemozhetbyt/patch-8\n\nFix possible typos in 6.3 (IndexedDB)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/2741d5e7d8fb16d80351edff3c8b1de9192f3934",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/2741d5e7d8fb16d80351edff3c8b1de9192f3934",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/2741d5e7d8fb16d80351edff3c8b1de9192f3934/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "d319026a14415c7053e77ae0a13471f9f100eedd",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/d319026a14415c7053e77ae0a13471f9f100eedd",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/d319026a14415c7053e77ae0a13471f9f100eedd"
+},
+{
+"sha": "fd85fc55210b12c5a7bcdf8c07ffef029f9a5fe2",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/fd85fc55210b12c5a7bcdf8c07ffef029f9a5fe2",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/fd85fc55210b12c5a7bcdf8c07ffef029f9a5fe2"
+}
+]
+},
+{
+"sha": "d319026a14415c7053e77ae0a13471f9f100eedd",
+"node_id": "MDY6Q29tbWl0OTMyNTMyNDY6ZDMxOTAyNmExNDQxNWM3MDUzZTc3YWUwYTEzNDcxZjlmMTAwZWVkZA==",
+"commit": {
+"author": {
+"name": "Ilya Kantor",
+"email": "iliakan@users.noreply.github.com",
+"date": "2020-12-05T16:41:28Z"
+},
+"committer": {
+"name": "GitHub",
+"email": "noreply@github.com",
+"date": "2020-12-05T16:41:28Z"
+},
+"message": "Merge pull request #2338 from FantasqueX/patch-1\n\nfix typo in 1.5 (08-weakmap-weakset)",
+"tree": {
+"sha": "a0680909a06d6631c6f91885fc8e075011e20c37",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/trees/a0680909a06d6631c6f91885fc8e075011e20c37"
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/git/commits/d319026a14415c7053e77ae0a13471f9f100eedd",
+"comment_count": 0,
+"verification": {
+"verified": true,
+"reason": "valid",
+"signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJfy7g4CRBK7hj4Ov3rIwAAdHIIAHONFsqGzx4LgmYFxYatjUqY\nebN0IlZvEM4NfOgWaOta0NsNdBLwRQGUW8MtzhI49Y0lDQv3GSo9EV7rLHy2IJ2G\nCPfpTNPpjMlZSRSimPvFvUlNFQlvN6RT5MA4ulJSxpaE9EX+Pj/pDEPSMqyGijjT\n6b1EWumuUC1ndThJnUlAHNIJAcnm7WO5tjWS8jslrpxF7mVV8F4aV6IIA+u5rEGe\n0SMnSRknZ7hNXOkTXEPGx9dnkQVJ8aVfgEamxmDCbeKMhIzvJAI1SvIJsJhLNElN\nxbO1IjY/yxQfI9R4Fnd29DxGkYSmrjkuc6oc9tK4RAU0lnf6iyOypz0geiAER2Q=\n=PUax\n-----END PGP SIGNATURE-----\n",
+"payload": "tree a0680909a06d6631c6f91885fc8e075011e20c37\nparent 59acd01bb357040d70683dceeafae4bbbfad280f\nparent 0db83b2858170fe5aebf572913cea0a013fd5056\nauthor Ilya Kantor <iliakan@users.noreply.github.com> 1607186488 +0300\ncommitter GitHub <noreply@github.com> 1607186488 +0300\n\nMerge pull request #2338 from FantasqueX/patch-1\n\nfix typo in 1.5 (08-weakmap-weakset)"
+}
+},
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/d319026a14415c7053e77ae0a13471f9f100eedd",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/d319026a14415c7053e77ae0a13471f9f100eedd",
+"comments_url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/d319026a14415c7053e77ae0a13471f9f100eedd/comments",
+"author": {
+"login": "iliakan",
+"id": 349336,
+"node_id": "MDQ6VXNlcjM0OTMzNg==",
+"avatar_url": "https://avatars0.githubusercontent.com/u/349336?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/iliakan",
+"html_url": "https://github.com/iliakan",
+"followers_url": "https://api.github.com/users/iliakan/followers",
+"following_url": "https://api.github.com/users/iliakan/following{/other_user}",
+"gists_url": "https://api.github.com/users/iliakan/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/iliakan/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/iliakan/subscriptions",
+"organizations_url": "https://api.github.com/users/iliakan/orgs",
+"repos_url": "https://api.github.com/users/iliakan/repos",
+"events_url": "https://api.github.com/users/iliakan/events{/privacy}",
+"received_events_url": "https://api.github.com/users/iliakan/received_events",
+"type": "User",
+"site_admin": false
+},
+"committer": {
+"login": "web-flow",
+"id": 19864447,
+"node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+"avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+"gravatar_id": "",
+"url": "https://api.github.com/users/web-flow",
+"html_url": "https://github.com/web-flow",
+"followers_url": "https://api.github.com/users/web-flow/followers",
+"following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+"gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+"starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+"subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+"organizations_url": "https://api.github.com/users/web-flow/orgs",
+"repos_url": "https://api.github.com/users/web-flow/repos",
+"events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+"received_events_url": "https://api.github.com/users/web-flow/received_events",
+"type": "User",
+"site_admin": false
+},
+"parents": [
+{
+"sha": "59acd01bb357040d70683dceeafae4bbbfad280f",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/59acd01bb357040d70683dceeafae4bbbfad280f",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/59acd01bb357040d70683dceeafae4bbbfad280f"
+},
+{
+"sha": "0db83b2858170fe5aebf572913cea0a013fd5056",
+"url": "https://api.github.com/repos/javascript-tutorial/en.javascript.info/commits/0db83b2858170fe5aebf572913cea0a013fd5056",
+"html_url": "https://github.com/javascript-tutorial/en.javascript.info/commit/0db83b2858170fe5aebf572913cea0a013fd5056"
+}
+]
+}
+]
